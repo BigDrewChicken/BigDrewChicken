@@ -78,6 +78,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
   </div>
+
+
+
+  ### 3D Modelling
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/tinkercad.svg" height="40" alt="tinkercad logo" style="filter: invert(72%) sepia(43%) saturate(464%) hue-rotate(178deg) brightness(93%) contrast(91%);" />
+  <img width="12" />
+</div>
+  
   
 </div>
 
