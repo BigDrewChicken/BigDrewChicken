@@ -11,11 +11,15 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B500&center=true&vCenter=true&width=500&lines=Welcome+to+the+chicken's+domain!+%F0%9F%90%94;Laying+the+foundation+of+tech+%F0%9F%87%97%F0%9F%87%B5;Cracking+the+egg+of+coding+problems+%F0%9F%A5%9A;Eggsecuting+scripts+with+precision!+%F0%9F%8D%B3" />
   </a>
+
+
   
 <div>
   <br><br>
 </div>
-  
+
+[![Codewars Badge](https://www.codewars.com/users/BigDrewChicken/badges/large)](https://www.codewars.com/users/BigDrewChicken)
+
 </div>
 
 ---
