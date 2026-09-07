@@ -22,17 +22,17 @@
       <div align="center" style="display:flex; justify-content:center; align-items:center; gap:20px; flex-wrap:wrap;">
       <img height="140" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGdoam94N2FtaGdrbmE2MXlidnB0cDRqODZzNjhweW9kYTZndGRjbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ghHDuqJ1uh9vP2gKdC/giphy.gif" />
       </div>
-      I am <b>Ross Andrew Bulaong</b>, also known as <b>BigDrewChicken</b> on GitHub. <br>
+      I am <b>Ross Andrew Bulaong</b>, also known as <b>BigDrewChicken</b> on GitHub. 🐔<br><br>
       This account serves as my portfolio for a wide range of industries I am passionate about, including but not limited to:
     </p>
     <ul>
       <li>Game Development </li>
       <li>Web Development </li>
-      <li>IoT / Arduino Circuits </li>
+      <li>Electronic Circuits and Embedded Systems </li>
       <li>Robotics </li>
     </ul>
     <p>
-      I also share repositories for events like <b>Advent of Code</b>, hackathons, networking projects, and other interesting experiments.
+      I also share repositories for events like Advent of Code, hackathons, networking projects, and other interesting experiments.
     </p>
   </div>
 </div>
@@ -49,35 +49,33 @@
   
   ### 🌐 Web Development
   <div align="center">
-    <img src="https://shields.io" alt="html5" />
-    <img src="https://shields.io" alt="css" />
-    <img src="https://shields.io" alt="tailwindcss" />
-    <img src="https://shields.io" alt="javascript" />
-    <img src="https://shields.io" alt="mysql" />
+    <img src=https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white />
+    <img src=https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E />
+    <img src=https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white />
+    <img src=https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white />
   </div>
 
   ### 💻 Programming Languages
   <div align="center">
-    <img src="https://shields.io" alt="python" />
-    <img src="https://shields.io" alt="cplusplus" />
+    <img src=https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54 />
+    <img src=https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white />
   </div>
 
   ### 🎮 Game Development
   <div align="center">
-    <img src="https://shields.io" alt="unity" />
-    <img src="https://shields.io" alt="csharp" />
+    <img src=https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white />
   </div>
 
   ### 🎨 Graphic Design
   <div align="center">
-    <img src="https://shields.io" alt="figma logo" />
-    <img src="https://shields.io" alt="canva logo" />
-    <img src="https://shields.io" alt="illustrator logo" />
+    <img src=https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white />
+    <img src=https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white />
+    <img src=https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white />
   </div>
 
-  ### 3D Modelling
+  ### 🧊 3D Modelling
   <div align="center">
-    <img src="https://shields.io" alt="Tinkercad" />
+    <img src=https://img.shields.io/badge/Tinkercad-%231477D1.svg?style=for-the-badge&logo=tinkercad&logoColor=white />
   </div>
 
 </div>
