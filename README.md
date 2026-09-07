@@ -48,48 +48,40 @@
 <div align="left">
   
   ### 🌐 Web Development
-  <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
-  </p>
-
-  ### 💻 Programming Languages
-  <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" />
-  </p>
-
-  ### 🎮 Game Development
-  <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" />
-  </p>
-
-  ### Graphic Design
-  <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+  <div align="center">
+    <img src="https://shields.io" alt="html5" />
+    <img src="https://shields.io" alt="css" />
+    <img src="https://shields.io" alt="tailwindcss" />
+    <img src="https://shields.io" alt="javascript" />
+    <img src="https://shields.io" alt="mysql" />
   </div>
 
+  ### 💻 Programming Languages
+  <div align="center">
+    <img src="https://shields.io" alt="python" />
+    <img src="https://shields.io" alt="cplusplus" />
+  </div>
 
+  ### 🎮 Game Development
+  <div align="center">
+    <img src="https://shields.io" alt="unity" />
+    <img src="https://shields.io" alt="csharp" />
+  </div>
+
+  ### 🎨 Graphic Design
+  <div align="center">
+    <img src="https://shields.io" alt="figma logo" />
+    <img src="https://shields.io" alt="canva logo" />
+    <img src="https://shields.io" alt="illustrator logo" />
+  </div>
 
   ### 3D Modelling
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/tinkercad.svg" height="40" alt="tinkercad logo" style="filter: invert(72%) sepia(43%) saturate(464%) hue-rotate(178deg) brightness(93%) contrast(91%);" />
-  <img width="12" />
+  <div align="center">
+    <img src="https://shields.io" alt="Tinkercad" />
+  </div>
+
 </div>
+
   
   
 </div>
